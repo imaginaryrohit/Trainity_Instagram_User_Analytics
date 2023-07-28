@@ -30,14 +30,14 @@ II. Bots & Fake Accounts Are there any fake/dummy accounts are active on Instagr
 Data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this).
 
 ## Insights
-It took 7 days to get our first 5 users from getting our first user
+1. It took 7 days to get our first 5 users from getting our first user
 
-There are around 26 % user (including fake accounts) are not posted any single content yet
+2. There are around 26 % user (including fake accounts) are not posted any single content yet
 
-There is no direct relation between posting content and getting likes (as there are some users have posted around 12 images but they not getting winning likes) “ users like Quality over Quantity ”
+3. There is no direct relation between posting content and getting likes (as there are some users have posted around 12 images but they not getting winning likes) “ users like Quality over Quantity ”
 
-Most commonly used hashtags are indicating free fun enjoying activities of users, (we can assume that people like to post their images of enjoyment)
+4. Most commonly used hashtags are indicating free fun enjoying activities of users, (we can assume that people like to post their images of enjoyment)
 
-It is strange to that most people register on Instagram are on working days. Though Saturday weekend day still it had less no of user registration.
+5. It is strange to that most people register on Instagram are on working days. Though Saturday weekend day still it had less no of user registration.
 
-There are 13 fake account who gave likes on each post of Instagram, while this account never posted any content yet.
+6. There are 13 fake account who gave likes on each post of Instagram, while this account never posted any content yet.
