@@ -7,10 +7,14 @@ This report analyses how consumers engage and interact with our digital platform
 This report will be divided up primarily into two sections
 
 ### 1 Marketing
-I.Rewarding Most Loyal Users - To find most loyal users for rewarding purpose (Top 5 oldest users of the Instagram)
-II.Remind Inactive Users to Start Posting - Sending mail to those users who have never posted single photo yet
+I. Rewarding Most Loyal Users - To find most loyal users for rewarding purpose (Top 5 oldest users of the Instagram)
+
+II. Remind Inactive Users to Start Posting - Sending mail to those users who have never posted single photo yet
+
 III. Declaring Contest Winner - To find details of Winner(user) of contest who gets most likes on single photo
+
 IV. Hashtag Researching - To find top 5 Hashtag for better reach to the most people
+
 V.Launch AD Campaign - To find the day on which users register more Instagram
 
 ### 2 Investor Metrics
