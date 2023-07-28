@@ -20,9 +20,11 @@ V.Launch AD Campaign - To find the day on which users register more Instagram
 ### 2 Investor Metrics
 I. User Engagement
 Are users still active on Instagram or not?
+
 a) how many times does average user posts on Instagram?
+
 b) Total number of photos on Instagram/total number of users.
 
 II. Bots & Fake Accounts Are there any fake/dummy accounts are active on Instagram?
-Data on users (bots) who have liked every single photo on the site (since any normal
-user would not be able to do this).
+
+Data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this).
